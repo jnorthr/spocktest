@@ -1,0 +1,19 @@
+= Micronaut 3.6.0 Documentation
+
+== User Documentation
+
+- https://docs.micronaut.io/3.6.0/guide/index.html[User Guide]
+- https://docs.micronaut.io/3.6.0/api/index.html[API Reference]
+- https://docs.micronaut.io/3.6.0/guide/configurationreference.html[Configuration Reference]
+- https://guides.micronaut.io/index.html[Micronaut Guides]
+
+=== Shadow Gradle Plugin
+
+See this: https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow[Shadow Gradle Plugin]
+
+
+== Feature http-client documentation
+
+- https://docs.micronaut.io/latest/guide/index.html#httpClient[Micronaut HTTP Client documentation]
+
+
